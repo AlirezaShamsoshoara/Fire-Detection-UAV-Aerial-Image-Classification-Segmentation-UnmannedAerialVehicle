@@ -63,7 +63,7 @@ def train_keras():
     loss are demonstrated at the end of this function.
     :return: None, Save the trained model and plot accuracy and loss on train and validation dataset.
     """
-    # This model is implemented based on the guide in Keras (ResNet)
+    # This model is implemented based on the guide in Keras (Xception network)
     # https://keras.io/examples/vision/image_classification_from_scratch/
     print(" --------- Training --------- ")
 
