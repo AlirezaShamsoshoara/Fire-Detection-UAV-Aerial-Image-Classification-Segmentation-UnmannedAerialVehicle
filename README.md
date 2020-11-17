@@ -24,10 +24,10 @@ You can find the **preprint** from the  ... .
 * cv2
 * copy
 * tqdm
-* Scipy
-* Numpy
+* scipy
+* numpy
 * pickle
-* Random
+* random
 * itertools
 * Keras 2.4.0
 * Tensorflow 2.3.0
