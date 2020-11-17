@@ -24,8 +24,8 @@ You can find the **preprint** from the  ... .
 * cv2
 * copy
 * tqdm
-* Numpy
 * Scipy
+* Numpy
 * pickle
 * Random
 * itertools
