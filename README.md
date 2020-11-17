@@ -34,7 +34,7 @@ You can find the **preprint** from the  ... .
 * matplotlib.pyplot
 
 ## Code
-
+This code is run and tested on Python 3.6 on linux (Ubuntu 18.04) machine with no issues. There is a config file in this directoy which shows all the configuration parameters such as ...
 
 ## Results
 
