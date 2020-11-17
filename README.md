@@ -9,13 +9,13 @@ You can find the **preprint** from the  ... .
 
 ### Model
 * The binary fire classifcation model of this project is based on the Xception Network:
-<br/>
+
 ![Alt text](/frames/small_Xception_model.PNG)
 <br/>
 <br/>
 
 * The fire segmentation model of this project is based on the U-NET:
-<br/>
+
 ![Alt text](/frames/u-net-segmentation.PNG)
 
 ## Requirements
