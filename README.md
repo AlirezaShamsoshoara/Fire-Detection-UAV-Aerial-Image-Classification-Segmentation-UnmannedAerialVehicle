@@ -43,7 +43,8 @@ This code is run and tested on Python 3.6 on linux (Ubuntu 18.04) machine with n
 
 * Fire classification Confusion Matrix:
 
-![Alt text](/Output/confusion.PNG)
+<img src=/Output/confusion.PNG width="500" height="500"/>
+<!--- ![Alt text](/Output/confusion.PNG) --->
 
 * Fire segmentation metrics and evaluation:
 
