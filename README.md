@@ -3,9 +3,15 @@
 ## Paper
 <!--- just ou can find the **article** related to this code [here at IEEE](https://ieeexplore.ieee.org/abstract/document/8824917) or --->
 You can find the **preprint** from the  ... .
-<!--- [Arxiv website](https://arxiv.org/pdf/1904.07380.pdf).--->
+<!--- [Arxiv website](https://arxiv.org/pdf/1904.07380.pdf). --->
 
 ### Dataset
+* The dataset is uploaded on IEEE dataport. You can find the dataset here at [IEEE Dataport](https://ieee-dataport.org/submit-dataset).
+
+* This table shows all available data for the dataset.
+<!--- ![Alt text](/Output/table.PNG) --->
+<img src=/Output/table.PNG width="860" height="600"/>
+
 
 ### Model
 * The binary fire classifcation model of this project is based on the Xception Network:
@@ -17,6 +23,10 @@ You can find the **preprint** from the  ... .
 * The fire segmentation model of this project is based on the U-NET:
 
 ![Alt text](/frames/u-net-segmentation.PNG)
+
+### Sample
+* A short sample video of the dataset is available on YouTube:
+
 
 ## Requirements
 * os
