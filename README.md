@@ -33,6 +33,8 @@ You can find the **preprint** from the  ... .
 
 ### Sample
 * A short sample video of the dataset is available on YouTube:
+[![Alt text](frames/sample_video.png)](https://youtu.be/vW17c-7zGek "Sample video")
+
 
 
 ## Requirements
