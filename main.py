@@ -81,6 +81,7 @@ if __name__ == "__main__":
     elif Mode == 'Classification':
         classify()
     elif Mode == 'Rename':
+        rename_all_files(path="Image")
         rename_all_files(path="Mask")
     elif Mode == 'Segmentation':
         segmentation_keras_load()
