@@ -8,7 +8,13 @@ You can find the **preprint** from the  ... .
 ### Dataset
 * The dataset is uploaded on IEEE dataport. You can find the dataset here at [IEEE Dataport](https://ieee-dataport.org/open-access/aerial-images-pile-fire-detection-using-drones-uavs) or [DOI](https://dx.doi.org/10.21227/qad6-r683).
 
-* This table shows all available data for the dataset. This project uses items 7, 8, 9, and 10 from the dataset. Items 7 and 8 are being used for the "Fire_vs_NoFire" image classification. Items 9 and 10 are for the fire segmentation. 
+* This table shows all available data for the dataset.
+* This project uses items 7, 8, 9, and 10 from the dataset. Items 7 and 8 are being used for the "Fire_vs_NoFire" image classification. Items 9 and 10 are for the fire segmentation. 
+* If you clone this repository on your local drive, please download item [7](https://ieee-dataport.org/open-access/aerial-images-pile-fire-detection-using-drones-uavs) from the dataset and unzip in directory /frames/Training/... for the Training phase of the "Fire_vs_NoFire" image classification.
+* For testing your trained model, please use item 8 and unzip it in direcotry /frame/Test/... .
+* Items 9 and 10 should be unzipped in these directories frames/Segmentation/Data/Image/... and frames/Segmentation/Data/Masks/... accordingly.
+* Please remove other README files from those directories and make sure that only images are there. 
+
 
 <!--- ![Alt text](/Output/table.PNG) --->
 <img src=/Output/table.PNG width="860" height="600"/>
