@@ -49,7 +49,7 @@ Repository/frames/Segmentation/Data
 
 ### Sample
 * A short sample video of the dataset is available on YouTube:
-[![Alt text](frames/sample_video.PNG)](https://youtu.be/vW17c-7zGek "Sample video")
+[![Alt text](frames/sample_video.PNG)](https://youtu.be/bHK6g37_KyA "Sample video")
 
 ## Requirements
 * os
