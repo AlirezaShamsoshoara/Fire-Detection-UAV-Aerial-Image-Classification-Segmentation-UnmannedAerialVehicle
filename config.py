@@ -24,7 +24,7 @@ segmentation_new_size = {'width': 512, 'height': 512}
 Config_classification = {"batch_size": 32, 'Save_Model': True, 'Epochs': 40, "TrainingPlot": True}
 config_segmentation = {"batch_size": 16, 'Save_Model': False, 'Epochs': 30, "TrainingPlot": False,
                        "train_set_ratio": 0.85, "val_set_ratio": 0.15, "num_class": 2, "CHANNELS": 3}
-Mode = 'Fire'
+Mode = 'Training'
 # Different Modes {"Fire", "Lake_Mary", "Test_Frame", "Training", "Classification", "Rename", "Segmentation",
 #                   "Scheduling"}
 
