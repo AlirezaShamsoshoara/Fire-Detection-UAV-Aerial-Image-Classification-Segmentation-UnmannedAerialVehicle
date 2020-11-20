@@ -51,8 +51,6 @@ Repository/frames/Segmentation/Data
 * A short sample video of the dataset is available on YouTube:
 [![Alt text](frames/sample_video.PNG)](https://youtu.be/vW17c-7zGek "Sample video")
 
-
-
 ## Requirements
 * os
 * re
@@ -69,7 +67,32 @@ Repository/frames/Segmentation/Data
 * matplotlib.pyplot
 
 ## Code
-This code is run and tested on Python 3.6 on linux (Ubuntu 18.04) machine with no issues. There is a config file in this directoy which shows all the configuration parameters such as ...
+This code is run and tested on Python 3.6 on linux (Ubuntu 18.04) machine with no issues. There is a config.py file in this directoy which shows all the configuration parameters such as **Mode**, **image target size**, **Epochs**, **batch size**, **train_validation ratio**, etc. All dependency files are available in the root directory of this repository.
+* To run the training phase for the "Fire_vs_NoFire" image classification, change the **mode** value to 'Training' in the config.py file. 
+[Like This](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle/blob/79f485d267ada0a3f460702a0dc724476f95afd1/config.py#L27)
+```
+Mode = 'Training'
+```
+Make sure that you have copied and unzipped the data in correct direcotry.
+
+* To run the test phase for the "Fire_vs_NoFire" image classification, change the **mode** value to 'Classification' in the config.py file. 
+[Change This](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle/blob/79f485d267ada0a3f460702a0dc724476f95afd1/config.py#L27)
+```
+Mode = 'Classification'
+```
+Make sure that you have copied and unzipped the data in correct direcotry.
+
+* To run the test phase for the Fire segmentation, change the **mode** value to 'Classification' in the config.py file. 
+[Change This](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle/blob/79f485d267ada0a3f460702a0dc724476f95afd1/config.py#L27)
+```
+Mode = 'Segmentation'
+```
+Make sure that you have copied and unzipped the data in correct direcotry.
+
+Then after setting your parameters, just run the main.py file.
+```
+python main.py
+```
 
 ## Results
 * Fire classification accuracy:
