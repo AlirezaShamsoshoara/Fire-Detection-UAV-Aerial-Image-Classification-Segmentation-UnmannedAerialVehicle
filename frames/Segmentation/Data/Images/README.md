@@ -3,4 +3,5 @@ Then you can remove this README file and the direcotry should be like this:
 ```
 Repository/frames/Segmentation/Data
                                 ├── Images/*.jpg
+                                ├── Masks/*.png
 ```
