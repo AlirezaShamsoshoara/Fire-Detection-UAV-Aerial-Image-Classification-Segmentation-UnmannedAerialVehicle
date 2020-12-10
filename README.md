@@ -6,7 +6,7 @@ You can find the **preprint** from the  ... .
 <!--- [Arxiv website](https://arxiv.org/pdf/1904.07380.pdf). --->
 
 ### Dataset
-* The dataset is uploaded on IEEE dataport. You can find the dataset here at [IEEE Dataport](https://ieee-dataport.org/open-access/aerial-images-pile-burn-detection-using-drones-uavs) or [DOI](https://dx.doi.org/10.21227/qad6-r683).
+* The dataset is uploaded on IEEE dataport. You can find the dataset here at [IEEE Dataport](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) or [DOI](https://dx.doi.org/10.21227/qad6-r683).
 
 * This table shows all available data for the dataset.
 * This project uses items 7, 8, 9, and 10 from the dataset. Items 7 and 8 are being used for the "Fire_vs_NoFire" image classification. Items 9 and 10 are for the fire segmentation. 
