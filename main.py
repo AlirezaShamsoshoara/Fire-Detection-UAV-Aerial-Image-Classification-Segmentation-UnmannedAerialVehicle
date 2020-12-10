@@ -5,7 +5,7 @@ Created on Aug. 12, 2020
           Unmanned Aerial Vehicles (UAVs)
           Paper: ### TODO: WILL UPDATE HERE AFTER ACCEPTANCE ...
           Arxiv: ### TODO: SHOULD BE UPDATED ...
-          Dataset: https://ieee-dataport.org/open-access/aerial-images-pile-burn-detection-using-drones-uavs
+          Dataset: https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
           YouTube Video: https://www.youtube.com/watch?v=bHK6g37_KyA
 @Northern Arizona University
 This project is developed and tested with Python 3.6 using pycharm on Ubuntu 18.04 LTS machine
