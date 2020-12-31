@@ -2,8 +2,7 @@
 
 ## Paper
 <!--- just ou can find the **article** related to this code [here at IEEE](https://ieeexplore.ieee.org/abstract/document/8824917) or --->
-You can find the **preprint** from the  ... .
-<!--- [Arxiv website](https://arxiv.org/pdf/1904.07380.pdf). --->
+You can find the **preprint** from the [Arxiv website](https://arxiv.org/pdf/2012.14036.pdf).
 
 ### Dataset
 * The dataset is uploaded on IEEE dataport. You can find the dataset here at [IEEE Dataport](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) or [DOI](https://dx.doi.org/10.21227/qad6-r683).
