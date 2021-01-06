@@ -2,7 +2,7 @@
 #################################
  Classification after training the Model, modules and methods in this file evaluate the performance of the trained
  model over the test dataset
- Test Data: ### TODO: THE LINK OF THE TEST DATA FOR CLASSIFICATION
+ Test Data: Item (8) on https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs 
  Tensorflow Version: 2.3.0
  GPU: Nvidia RTX 2080 Ti
  OS: Ubuntu 18.04
