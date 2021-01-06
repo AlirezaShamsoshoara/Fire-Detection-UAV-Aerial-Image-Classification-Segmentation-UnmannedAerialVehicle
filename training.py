@@ -2,7 +2,7 @@
 #################################
  Training phase after demonstration: This module uses Keras and Tensor flow to train the image classification problem
  for the labeling fire and non-fire data based on the aerial images.
- Training and Validation Data: ### TODO: THE LINK OF THE TRAINING AND VALIDATION
+ Training and Validation Data: Item 7 on https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
  Keras version: 2.4.0
  Tensorflow Version: 2.3.0
  GPU: Nvidia RTX 2080 Ti
