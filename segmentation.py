@@ -1,7 +1,7 @@
 """
 #################################
  Fire Segmentation on Fire Class to extract fire pixels from each frame based on the Ground Truth data (masks)
- Train, Validation, Test Data: ### TODO: THE LINK OF THE DATA FOR FIRE SEGMENTATION
+ Train, Validation, Test Data: Items (9) and (10) on https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
  Keras version: 2.4.0
  Tensorflow Version: 2.3.0
  GPU: Nvidia RTX 2080 Ti
