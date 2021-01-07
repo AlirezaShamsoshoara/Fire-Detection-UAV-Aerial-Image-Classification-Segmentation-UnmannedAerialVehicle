@@ -62,6 +62,7 @@ Repository/frames/Segmentation/Data
 * random
 * itertools
 * Keras 2.4.0
+* scikit-image
 * Tensorflow 2.3.0
 * matplotlib.pyplot
 
