@@ -57,8 +57,8 @@ Repository/frames/Segmentation/Data
 * copy
 * tqdm
 * scipy
-* numpy
 * pickle
+* numpy
 * random
 * itertools
 * Keras 2.4.0
