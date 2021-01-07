@@ -51,7 +51,7 @@ METRICS = [
 
 def segmentation_keras_load():
     """
-    This function train a DNN model for the fire segmentation based on the U-NET Structure.
+    This function trains a DNN model for the fire segmentation based on the U-NET Structure.
     Arxiv Link for U-Net: https://arxiv.org/abs/1505.04597
     :return: None, Save the model and plot the predicted fire masks on the validation dataset.
     """
