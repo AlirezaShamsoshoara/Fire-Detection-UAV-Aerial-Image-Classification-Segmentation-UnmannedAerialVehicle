@@ -115,6 +115,10 @@ python main.py
 
 ![Alt text](/Output/segmentation_sample.PNG)
 
+* Federated Learning sample <br/>
+To consider future challenges, we defined a new sample of federated learning on a local node (NVidia Jetson Nano, 4GB RAM). Jetson Nano is available in two versions: 1) 4GB RAM developer kit, and 2) 2GB RAM developer kit. In this Implementation, the 4GB version is used with the technical specifications of a 128-core Maxwell GPU, a Quad-core ARM A57 @ 1.43 GHz CPU, 4GB LPDDR4 RAM, and a 32GB microSD storage. To test Jetson Nano for the federated learning, items (9) and (10) from Dataset are used for the fire segmentation. Since Jetson Nano has limited RAM, we assumed that each drone has access to a portion of the FLAME dataset. Only 500 fire images and masks are considered for the training and validation phase on the drone. As we aimed at learning a model on a smaller subset of the FLAME dataset and inferring that model, the default Tensorflow version is used here. Also, the image and mask dimension for each input is reduced to 128 x 128 x 3 rather than 512 x 512 x 3. To save more memory on the RAM, all peripherals were turned off and only WiFi was working at that time for the Secure Shell (SSH) connection. The setup of this node is:
+
+<img src=/Output/federated_node_cropped.jpg width="500" height="500"/>
 
 ## Citation
 If you find it useful, please cite our paper as follows:
