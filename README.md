@@ -131,6 +131,9 @@ If you find it useful, please cite our paper as follows:
 }
 ```
 
+## Other related repositories and articles
+* [Fire Detection From Images](https://github.com/robmarkcole/fire-detection-from-images)
+
 
 ## License
 For academtic and non-commercial usage
