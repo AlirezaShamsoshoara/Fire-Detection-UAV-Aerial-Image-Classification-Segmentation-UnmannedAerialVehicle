@@ -123,11 +123,13 @@ To consider future challenges, we defined a new sample of federated learning on 
 ## Citation
 If you find it useful, please cite our paper as follows:
 ```
-@article{shamsoshoara2020aerial,
+@article{shamsoshoara2021aerial,
   title={Aerial Imagery Pile burn detection using Deep Learning: the FLAME dataset},
   author={Shamsoshoara, Alireza and Afghah, Fatemeh and Razi, Abolfazl and Zheng, Liming and Ful{\'e}, Peter Z and Blasch, Erik},
-  journal={arXiv preprint arXiv:2012.14036},
-  year={2020}
+  journal={Computer Networks},
+  pages={108001},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
