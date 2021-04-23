@@ -1,7 +1,8 @@
 # Aerial Imagery dataset for fire detection: classification and segmentation using Unmanned Aerial Vehicle (UAV)
 
 ## Title
-FLAME (Fire Luminosity Airborne-based Machine learning Evaluation) Dataset
+FLAME (Fire Luminosity Airborne-based Machine learning Evaluation) Dataset<br/>
+![Alt Text](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle/blob/main/Output/flame_compressed.gif)
 
 ## Paper
 You can find the **article** related to this code [here at Elsevier](https://www.sciencedirect.com/science/article/pii/S1389128621001201) or <br/>
