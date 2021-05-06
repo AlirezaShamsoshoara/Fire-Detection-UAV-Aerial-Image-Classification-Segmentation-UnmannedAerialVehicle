@@ -3,7 +3,7 @@ Created on Aug. 12, 2020
 @author: Alireza Shamsoshoara
 @Project: Aerial image dataset for fire classification, segmentation, and scheduling using
           Unmanned Aerial Vehicles (UAVs)
-          Paper: ### TODO: WILL UPDATE HERE AFTER ACCEPTANCE ...
+          Paper: https://ieeexplore.ieee.org/abstract/document/9381488
           Arxiv: https://arxiv.org/pdf/2012.14036.pdf
           Dataset: https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
           YouTube Video: https://www.youtube.com/watch?v=bHK6g37_KyA
